@@ -1,0 +1,12 @@
+#Sun Dec 26 20:33:37 MST 2010
+eclipse.preferences.version=1
+environment/project/de.innot.avreclipse.configuration.app.debug.1694687809/AVRDUDEPATH/delimiter=\:
+environment/project/de.innot.avreclipse.configuration.app.debug.1694687809/AVRDUDEPATH/operation=replace
+environment/project/de.innot.avreclipse.configuration.app.debug.1694687809/AVRDUDEPATH/value=/usr/bin/
+environment/project/de.innot.avreclipse.configuration.app.debug.1694687809/append=true
+environment/project/de.innot.avreclipse.configuration.app.debug.1694687809/appendContributed=false
+environment/project/de.innot.avreclipse.configuration.app.release.303481845/AVRDUDEPATH/delimiter=\:
+environment/project/de.innot.avreclipse.configuration.app.release.303481845/AVRDUDEPATH/operation=replace
+environment/project/de.innot.avreclipse.configuration.app.release.303481845/AVRDUDEPATH/value=/usr/bin/
+environment/project/de.innot.avreclipse.configuration.app.release.303481845/append=true
+environment/project/de.innot.avreclipse.configuration.app.release.303481845/appendContributed=true
